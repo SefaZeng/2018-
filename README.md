@@ -2,7 +2,7 @@
 --------------
 ## 项目介绍
 - 2018腾讯广告大赛baseline 100行代码带你上0.73
-
+  baseline作者(https://github.com/YouChouNoBB/2018-tencent-ad-competition-baseline)
 - 1.首先处理4个G的用户特征
 - 2.拼接用户特征，广告特征
 - 3.将单取值的离散特征使用稀疏方式one-hot
